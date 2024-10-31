@@ -1,0 +1,11 @@
+C:\Users\USER\source\repos\ClothingStore.App\core\ClothingStore.Domain\obj\Debug\net8.0\ClothingStore.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\ClothingStore.App\core\ClothingStore.Domain\obj\Debug\net8.0\ClothingStore.Domain.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\ClothingStore.App\core\ClothingStore.Domain\obj\Debug\net8.0\ClothingStore.Domain.AssemblyInfo.cs
+C:\Users\USER\source\repos\ClothingStore.App\core\ClothingStore.Domain\obj\Debug\net8.0\ClothingStore.Domain.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\ClothingStore.App\core\ClothingStore.Domain\bin\Debug\net8.0\ClothingStore.Domain.deps.json
+C:\Users\USER\source\repos\ClothingStore.App\core\ClothingStore.Domain\bin\Debug\net8.0\ClothingStore.Domain.dll
+C:\Users\USER\source\repos\ClothingStore.App\core\ClothingStore.Domain\bin\Debug\net8.0\ClothingStore.Domain.pdb
+C:\Users\USER\source\repos\ClothingStore.App\core\ClothingStore.Domain\obj\Debug\net8.0\ClothingStore.Domain.dll
+C:\Users\USER\source\repos\ClothingStore.App\core\ClothingStore.Domain\obj\Debug\net8.0\refint\ClothingStore.Domain.dll
+C:\Users\USER\source\repos\ClothingStore.App\core\ClothingStore.Domain\obj\Debug\net8.0\ClothingStore.Domain.pdb
+C:\Users\USER\source\repos\ClothingStore.App\core\ClothingStore.Domain\obj\Debug\net8.0\ref\ClothingStore.Domain.dll

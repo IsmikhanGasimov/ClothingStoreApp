@@ -1,0 +1,11 @@
+C:\Users\USER\source\repos\ClothingStore.App\infrastructure\ClothingStore.Infrastructure\bin\Debug\net8.0\ClothingStore.Infrastructure.deps.json
+C:\Users\USER\source\repos\ClothingStore.App\infrastructure\ClothingStore.Infrastructure\bin\Debug\net8.0\ClothingStore.Infrastructure.dll
+C:\Users\USER\source\repos\ClothingStore.App\infrastructure\ClothingStore.Infrastructure\bin\Debug\net8.0\ClothingStore.Infrastructure.pdb
+C:\Users\USER\source\repos\ClothingStore.App\infrastructure\ClothingStore.Infrastructure\obj\Debug\net8.0\ClothingStore.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\ClothingStore.App\infrastructure\ClothingStore.Infrastructure\obj\Debug\net8.0\ClothingStore.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\ClothingStore.App\infrastructure\ClothingStore.Infrastructure\obj\Debug\net8.0\ClothingStore.Infrastructure.AssemblyInfo.cs
+C:\Users\USER\source\repos\ClothingStore.App\infrastructure\ClothingStore.Infrastructure\obj\Debug\net8.0\ClothingStore.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\ClothingStore.App\infrastructure\ClothingStore.Infrastructure\obj\Debug\net8.0\ClothingStore.Infrastructure.dll
+C:\Users\USER\source\repos\ClothingStore.App\infrastructure\ClothingStore.Infrastructure\obj\Debug\net8.0\refint\ClothingStore.Infrastructure.dll
+C:\Users\USER\source\repos\ClothingStore.App\infrastructure\ClothingStore.Infrastructure\obj\Debug\net8.0\ClothingStore.Infrastructure.pdb
+C:\Users\USER\source\repos\ClothingStore.App\infrastructure\ClothingStore.Infrastructure\obj\Debug\net8.0\ref\ClothingStore.Infrastructure.dll
